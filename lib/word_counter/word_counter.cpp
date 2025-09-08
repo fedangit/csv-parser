@@ -95,10 +95,3 @@ void WordCounter::write() {
         << std::endl;
     }
 }
-
-// Добавить exception под каждую ошибку
-// Добавить multiset
-// Добавить класс strings_helper (Capitalize, Align)
-// Переделать на кэмэл кейс
-// Переместить largest_word_size в writer
-// HUNDRED_PERCENTS
