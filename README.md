@@ -3,10 +3,11 @@ This program counts the words in the specified txt file and outputs the result t
 2) Frequency
 3) Frequency as a percentage
 
-## Compile: g++ -std=c++11 -o word_counter bin/main.cpp lib/word_counter/word_counter.cpp -I.
+## 1. Compile:
+g++ -std=c++11 -o word_counter bin/main.cpp lib/word_counter/word_counter.cpp -I.
 
-## Create input and output files
+## 2. Create input and output files
 
-## Add text into input file
+## 3. Add text into input file
 
-## Run: word_counter.exe input.txt output.txt
+## 4. Run: word_counter.exe input.txt output.txt
