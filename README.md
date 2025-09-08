@@ -10,4 +10,5 @@ g++ -std=c++11 -o word_counter bin/main.cpp lib/word_counter/word_counter.cpp -I
 
 ## 3. Add text into input file
 
-## 4. Run: word_counter.exe input.txt output.txt
+## 4. Run: 
+word_counter.exe input.txt output.txt
