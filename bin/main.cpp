@@ -27,6 +27,3 @@ int main(int argc, char* argv[]) {
 
     return 0;
 }
-
-// Добавить классы reader/writer
-// Изменить функцию calculate_and_write
